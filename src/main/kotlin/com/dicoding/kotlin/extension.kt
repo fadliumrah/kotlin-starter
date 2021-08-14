@@ -1,6 +1,6 @@
 package com.dicoding.kotlin
 
 fun main(){
-    nama("cindtaku")
+    nama("cintaku")
 }
 val nama={firsname:String-> println(firsname)}
